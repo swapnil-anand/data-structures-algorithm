@@ -1,6 +1,5 @@
 ### IntelliJ IDEA ###
 .idea/
-dsa/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
